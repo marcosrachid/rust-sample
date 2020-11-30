@@ -20,6 +20,12 @@ Run project(implicit build):
 
     cargo run
 
+# Pros and Cons
+
+Cons:
+
+* No debugging tool for intellij community on linux(windows has CLion), only on vscode with CodeLLDB
+
 ## Source
 
 | Name | Link |
